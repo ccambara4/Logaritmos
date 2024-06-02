@@ -1,0 +1,11 @@
+<Project Sdk="Devsense.Php.Sdk">
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>edfd6fd7-5075-4c31-8416-5713d568f571</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <EnvName>PHPDev</EnvName>
+    <RuntimeVersion>8.2</RuntimeVersion>
+    <SpecificPageValue>Logaritmos/Binomio.php</SpecificPageValue>
+    <StartAction>SpecificPage</StartAction>
+  </PropertyGroup>
+</Project>
